@@ -1,0 +1,123 @@
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\SocialNetwork.dll.config
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\SocialNetwork.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\SocialNetwork.pdb
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Owin.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.dll
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.InitialCreate.resources
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.start.resources
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.addcomments.resources
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.test.resources
+c:\users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.test2.resources
+C:\Users\user\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csprojResolveAssemblyReference.cache
+E:\GitHub\SocialNetwork\SocialNetwork\bin\SocialNetwork.dll.config
+E:\GitHub\SocialNetwork\SocialNetwork\bin\SocialNetwork.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\SocialNetwork.pdb
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Antlr3.Runtime.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\EntityFramework.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\EntityFramework.SqlServer.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Newtonsoft.Json.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Owin.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Helpers.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Mvc.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Optimization.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Razor.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\WebGrease.dll
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Helpers.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Mvc.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Optimization.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.Razor.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Newtonsoft.Json.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Antlr3.Runtime.pdb
+E:\GitHub\SocialNetwork\SocialNetwork\bin\EntityFramework.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\EntityFramework.SqlServer.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHub\SocialNetwork\SocialNetwork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csprojResolveAssemblyReference.cache
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.InitialCreate.resources
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.start.resources
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.addcomments.resources
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.test.resources
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.test2.resources
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.GenerateResource.Cache
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.dll
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb
+E:\GitHub\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.Migrations.restore.resources
