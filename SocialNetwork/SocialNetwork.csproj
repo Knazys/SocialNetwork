@@ -22,7 +22,6 @@
     <IISExpressUseClassicPipelineMode />
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <RestorePackages>true</RestorePackages>
-    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -188,10 +187,6 @@
     <Compile Include="Migrations\201607081618445_test 2.Designer.cs">
       <DependentUpon>201607081618445_test 2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201607181841532_restore.cs" />
-    <Compile Include="Migrations\201607181841532_restore.Designer.cs">
-      <DependentUpon>201607181841532_restore.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Comment.cs" />
@@ -283,9 +278,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201607081618445_test 2.resx">
       <DependentUpon>201607081618445_test 2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201607181841532_restore.resx">
-      <DependentUpon>201607181841532_restore.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
