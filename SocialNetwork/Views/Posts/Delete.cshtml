@@ -1,0 +1,20 @@
+﻿@model SocialNetwork.Models.Post
+
+@{
+    ViewBag.Title = "Удалени поста";
+    Layout = ""
+}
+
+<h2>Удалени поста</h2>
+
+<h3>Вы действительно хотеите удалить этот пост?</h3>
+<div>
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-danger" />
+            <a href="@Url.Action("index")" class="btn btn-default">Отмена</a>
+        </div>
+    }
+</div>

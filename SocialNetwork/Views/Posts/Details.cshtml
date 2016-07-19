@@ -1,0 +1,72 @@
+﻿@model SocialNetwork.Models.Post
+
+@{
+    ViewBag.Title = "Подробности поста";
+}
+
+<h2>Подробности поста</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateCreated)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Likes)
+        </dt>
+
+        <dd>
+            <div class="post-like"
+                 data-post-id="@Model.Id"
+                 data-url="@Url.Action("Like","Posts")">
+                @if (Model.Likes > 0)
+                {
+                    <i class="fa fa-heart" aria-hidden="true"></i> <span class="likes-count">@Html.DisplayFor(model => model.Likes)</span>
+                }
+                else
+                {
+                    <i class="fa fa-heart-o" aria-hidden="true"></i> <text>Мне нравится!</text>
+                }
+            </div>
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Comments)
+        </dt>
+        <dd>
+            @if (Model.Comments.Any())
+            {
+                foreach (var comment in Model.Comments)
+                {
+                    <p>@comment.Text</p>
+                }
+            }
+            else
+            {
+                <text>Ваш комментарий будет первым!</text>
+            }
+        </dd>
+
+    </dl>
+
+    @{Html.RenderAction("Create", "Comments", new { postId = Model.Id });}
+
+</div>
+<p>
+    @Html.ActionLink("Назад", "Index")
+</p>
